@@ -7,7 +7,7 @@ My Portfolio
 <!-- About Me Section -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="RaveenaSamaranayaka" /> </p>
 
-- 🔭 I’m currently working on **Research using Deep learining**
+- 🔭 I’m currently working on **Research using Deep learning**
 
 - 🌱 I’m currently learning **Computer Studies Related Subjects**
 
