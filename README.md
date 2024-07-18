@@ -5,7 +5,7 @@ My Portfolio
 <h3 align="center">A passionate Software Quality Engineer and UI/UX Engineer from Sri Lanka</h3>
 
 <!-- About Me Section -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="RaveenaSamaranayaka" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RaveenaSamaranayaka&label=Profile%20views&color=0e75b6&style=flat" alt="RaveenaSamaranayaka" /> </p>
 
 - 🔭 I’m currently working on **Research using Deep learning**
 
